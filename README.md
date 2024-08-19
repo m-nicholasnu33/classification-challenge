@@ -13,6 +13,6 @@ Module 13 Challenge Assignment
 
 ### In the final analysis, the Random Forest Model performed better, generating an accuracy score on the test data of 96.7% compared to the Logistic Regression Model accuracy score of 92.8%.
 
-### AI had some concern that the Random Forest Model may be overfitting due to it's Training Model score near 100% (at 99.97%).  However, one of the benefits of applying the Random Forest Model is that it mitigates the risk of overfitting (vs. the Decision Tree Model) by applying many, many small and simple decision trees (weak learners) to perform an Ensemble Learner methodology, leading to the model's greater prediction accuracy and reliability. 
+### AI had some concern that the Random Forest Model may be overfitting due to it's Training Model score near 100% (at 99.97%).  However, one of the benefits of applying the Random Forest Model is that it mitigates the risk of overfitting (vs. the Decision Tree Model) by applying many, many small and simple decision trees (weak learners) to perform an Ensemble Learner methodology, leading to the model's greater prediction accuracy and reliability.  Thus I am comfortable with the conclusion that the Random Forest model is best. 
 
 ### Note that I completed all work in this challenge without requiring outside assistance...
